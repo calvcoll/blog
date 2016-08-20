@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+# highlighter:      rouge
+highlighter:      rouge
+# highlighter was pygments, markdown redcarpet
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            BakaBlog
+tagline:          "Calv's incredibly lazy blog."
+description:      'The guy known as @calvcoll on twitter, and calvcoll on almost everything else.'
+url:              https://myblog.iskawaii.moe
+baseurl:          /
+
+author:
+  name:           'Calv Collins'
+  url:            https://twitter.com/calvcoll
+
+paginate:         5
+
+# gems: ["emoji_for_jekyll"]    Removed due to Github being Github.
+gems: ["jemoji"]
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/calvcoll/blog
