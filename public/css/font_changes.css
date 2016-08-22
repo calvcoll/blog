@@ -1,3 +1,9 @@
+@import 'https://fonts.googleapis.com/css?family=Didact+Gothic|Open+Sans';
+
+.sidebar a {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .lead {
-  font-family: Futura;
+  font-family: 'Didact Gothic', 'Open Sans', sans-serif;
 }
